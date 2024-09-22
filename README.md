@@ -24,5 +24,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=luke-fy&show_icons=true" />
 </picture>
 <div>
-<p>🧠 <span style="font-style:italic">"Work gives back."</span></p>
+<p>🧠 <span style="font-style:italic">"Work hard, smile hard."</span></p>
 </div>
