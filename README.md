@@ -1,7 +1,7 @@
 ## 👋 olá! Eu sou Lucas Girardello
   
-- 👀 estou cursando ciência da computação 
-- 🌱 atualmento estudando com foco em ser um dev fullstack 
+- 👀 estou cursando **ciência da computação** 
+- 🌱 atualmento estudando com foco em ser um **dev fullstack** 
 - 📫 contato : girardello4686@outlook.com
 - ⚡ Estas são algumas das tecnologias e ferramentas que eu uso: 
 
